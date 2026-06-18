@@ -22,20 +22,8 @@ I’m interested in system-level topics across software and hardware.
 
 <br/>
  
-✍️ **My Technical Blogs & Pages**    
-
-
-1. **Github Pages (Main)**            
+* **Github Pages (Main)**            
   👉 https://jeonghunlee.github.io/         
   projects and documentation focused on system-level embedded engineering and testing.      
-
-2. **My Technical Blog (Main)**          
-  👉 https://ahyuo79.blogspot.com/      
-  My primary technical blog focused on various system-level embedded systems(HW/FW/SW), DSP, imaging, RF, and performance optimization.   
-
-3. **Medium**   
-  👉 https://medium.com/@ahyuo79   
-   My secondary technical blog is based on and expanded from the content in my primary technical blog. 
-  
 
 ## 

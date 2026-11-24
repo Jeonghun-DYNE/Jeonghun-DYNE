@@ -18,12 +18,4 @@ I’m interested in system-level topics across software and hardware.
 
 **Thanks for visiting here** 
 
-##
 
-<br/>
- 
-* **Github Pages (Main)**            
-  👉 https://jeonghunlee.github.io/         
-  projects and documentation focused on system-level embedded engineering and testing.      
-
-## 
